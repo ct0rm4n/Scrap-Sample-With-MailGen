@@ -8,8 +8,6 @@ from selenium.webdriver.common.by import By
 import undetected_chromedriver as uc
 import requests
 import time
-#import random
-#import string
 
 # Função para gerar email temporário
 def gerar_email_temp():
